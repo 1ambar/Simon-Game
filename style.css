@@ -1,0 +1,40 @@
+body {
+    text-align: center;
+}
+
+.buttons {
+    display: flex;
+    justify-content: center;
+}
+
+.button {
+    height: 200px;
+    width: 200px;
+    border: 5px solid black;
+    border-radius: 20px;
+    margin: 20px;
+}
+
+.pink {
+    background-color: rgb(169, 15, 103);
+}
+
+.orange {
+    background-color: rgb(193, 121, 13);
+}
+
+.green {
+    background-color: rgb(26, 130, 7);
+}
+
+.blue {
+    background-color: rgb(73, 9, 125);
+}
+
+.randcol{
+    background-color: aqua;
+}
+
+.usercol{
+    background-color: aquamarine;
+}
